@@ -1,5 +1,3 @@
-# simple-progress-steps-widget
-This project is a progress steps widget built using HTML5, CSS3, and JavaScript. The widget provides a visual representation of progress through a series of steps, allowing users to navigate between steps and track their progress.
 <div align="center">
   <img src="img/logo.png" alt="Logo" width="200" height="200">
   <h1 align="center">Simple Progress Steps Widget</h1>

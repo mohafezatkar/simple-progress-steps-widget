@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # simple-progress-steps-widget
 This project is a progress steps widget built using HTML5, CSS3, and JavaScript. The widget provides a visual representation of progress through a series of steps, allowing users to navigate between steps and track their progress.
 =======
@@ -133,4 +132,4 @@ Project Link: [https://github.com/mohafezatkar/simple-progress-steps-widget](htt
 [CSS3-url]: https://css-tricks.com/
 [JS]: https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow
 [JS-url]: https://www.javascript.com/
->>>>>>> 7852c50 (V1 Commit)
+
